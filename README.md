@@ -1,4 +1,4 @@
 messmanagement
 ==============
 
-ASP.NET MVC code first project for messmanagement
+ASP.NET MVC code first project for mess management
